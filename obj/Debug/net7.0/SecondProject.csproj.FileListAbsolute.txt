@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SecondProject\bin\Debug\net7.0\SecondProject.exe
+C:\Users\user\source\repos\SecondProject\bin\Debug\net7.0\SecondProject.deps.json
+C:\Users\user\source\repos\SecondProject\bin\Debug\net7.0\SecondProject.runtimeconfig.json
+C:\Users\user\source\repos\SecondProject\bin\Debug\net7.0\SecondProject.dll
+C:\Users\user\source\repos\SecondProject\bin\Debug\net7.0\SecondProject.pdb
+C:\Users\user\source\repos\SecondProject\obj\Debug\net7.0\SecondProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SecondProject\obj\Debug\net7.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SecondProject\obj\Debug\net7.0\SecondProject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SecondProject\obj\Debug\net7.0\SecondProject.AssemblyInfo.cs
+C:\Users\user\source\repos\SecondProject\obj\Debug\net7.0\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SecondProject\obj\Debug\net7.0\SecondProject.dll
+C:\Users\user\source\repos\SecondProject\obj\Debug\net7.0\refint\SecondProject.dll
+C:\Users\user\source\repos\SecondProject\obj\Debug\net7.0\SecondProject.pdb
+C:\Users\user\source\repos\SecondProject\obj\Debug\net7.0\SecondProject.genruntimeconfig.cache
+C:\Users\user\source\repos\SecondProject\obj\Debug\net7.0\ref\SecondProject.dll
